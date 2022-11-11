@@ -1,0 +1,3 @@
+[submodule "esm2_t6_8M_UR50D-finetuned-localization"]
+	path = esm2_t6_8M_UR50D-finetuned-localization
+	url = https://huggingface.co/rchikhi/esm2_t6_8M_UR50D-finetuned-localization
